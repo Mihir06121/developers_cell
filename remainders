@@ -1,4 +1,4 @@
-what are componenets?
+what are componenets in React?
 Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML.
 
 then go for types of componenets (class and functional)
